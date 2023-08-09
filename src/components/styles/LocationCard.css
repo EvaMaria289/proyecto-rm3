@@ -1,0 +1,55 @@
+.Location-card{
+   width: 70%;
+   justify-content: center;
+   background-color: #062226;
+   border-radius: 1%;
+   overflow: hidden;
+   box-shadow: 10%;
+   margin: auto;
+   margin-top: 5%;
+   margin-bottom: 5%;
+    
+    }
+    .location_title{
+      text-align: center;
+     margin-left: 2em;
+     margin-bottom: 1em;
+     margin-right: 2em;
+        color: rgb(61, 240, 11);
+        padding: top 10em;
+    }
+    .location_list{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+flex-direction: row;
+
+    padding: auto;
+    gap: 2em;
+    margin: top 2px;
+    margin-bottom: 2em;
+    }
+    
+    
+    .location_item-type{
+        color: rgb(250, 247, 250);
+       
+    }
+    .location_item-population{
+        color:rgb(250, 247, 250) ;
+    }
+    .location_item-dimension{
+        color:rgb(250, 247, 250);
+    }
+    .location-type{
+        color: rgb(5, 175, 28);
+
+    }
+  .location-residents{
+color: rgb(5, 175, 28);
+  }
+  .location-dimension{
+color:  rgb(5, 175, 28);
+    
+  }
+    
